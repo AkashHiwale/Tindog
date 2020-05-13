@@ -1,2 +1,1 @@
-# Tindog
-The best dating website for your dog.
+TinDog Starting Files
